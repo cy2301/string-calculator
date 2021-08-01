@@ -8,3 +8,5 @@ Supported operations currently are:
 - Multiplication
 - Divison
   - Integer division and modulo divsion only
+# How to use
+Download all the files and run main.cpp.
