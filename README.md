@@ -3,8 +3,8 @@ A simple calculator written in C++ that takes in a mathematical expression, wher
 
 # Operations
 Supported operations currently are:
--Addition
--Subtraction
--Multiplication
--Divison
-  -Integer division and modulo divsion only
+- Addition
+- Subtraction
+- Multiplication
+- Divison
+  - Integer division and modulo divsion only
